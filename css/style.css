@@ -128,9 +128,8 @@ li .channel-meta {
     right: 16px;
     top: 12px;
 }
-
-li img {
-    vertical-align: middle;
+i{
+    font-size: 24px;
 }
 
 li.selected {
